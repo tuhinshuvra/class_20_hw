@@ -1,0 +1,18 @@
+/*font-family: 'Roboto', sans-serif;*/
+/*font-family: 'Lato', sans-serif;*/ 
+
+/*common start*/
+body{
+	font-family: 'Roboto', sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+	color: #8E8E8E;
+}
+/*common end*/
+
+/*header start*/
+header{}
+.logo{}
+.l_top{}
+.l_text{}
+/*header end*/
